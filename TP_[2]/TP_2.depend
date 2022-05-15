@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652568771 source:c:\users\maria\desktop\carrera utn\programacion\prog-lab marzo-junio 2022\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayPassengers.h"
+	"ArrayPassengers.c"
+
+1652568685 c:\users\maria\desktop\carrera utn\programacion\prog-lab marzo-junio 2022\tp_2\arraypassengers.h
+
+1652568741 c:\users\maria\desktop\carrera utn\programacion\prog-lab marzo-junio 2022\tp_2\arraypassengers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayPassengers.h"
+
